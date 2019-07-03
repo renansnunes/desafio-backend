@@ -19,7 +19,9 @@ Solução direta para modelagem de dados, conversão de tipo incorporada, valida
 
 #### Debug/Testes
 [**Postman**](https://www.getpostman.com/): Interface para fazer request.
+
 [**HTTP Client**](encurtador.com.br/wALRZ): Extensão para Visual Studio Code para fazer request.
+
 [**Robo 3T**](https://robomongo.org/): Interface para conectar com o mongo.
 
 ## Requisitos
@@ -99,7 +101,7 @@ Adicionar item ao carrinho.
 
 "product_id":"d2eda25e-9757-11e9-bc42-526af7764f64",
 
-"date":"26/11/2018"
+"date":"26/11/2018",
 
 "time":"18:33:12"
 
